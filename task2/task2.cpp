@@ -285,17 +285,3 @@ int main()
     new_sith.take_damage(999); cout << endl;
     cout << string(new_sith) << endl;
 }
-//Unicorn new_unicorn("Roach", "Rainbow", 777, 250, -37, 52);
-//cout << string(new_unicorn) << endl;
-//new_unicorn.move(36, -47);
-//new_unicorn.take_damage(30);
-//GOD new_god("Hephaestus", 100000, 100000, 50, 50, "Fire");
-//cout << string(new_god) << endl;
-//new_god.move(1, 20);
-//new_god.mana_use(150);
-//new_god.take_damage(10);
-//cout << endl;
-//scroll_of_fire new_sof("ring of the void", 30, 30);
-//cout << string(new_sof) << endl;
-//Sith new_sith("Palpatine", 1000, 420, 0, 0);
-//new_god.voice("For the king!!!");
