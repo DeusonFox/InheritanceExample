@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComputerGame" Collapsed="true">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACQAAAAAAAAAAEQAAAAAAAAIAAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="character" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAARAAAEACAAAAJAAAAAEAAAAAAYABghACAACU=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="items" Collapsed="true">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="scroll_of_fire" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAw=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lightning" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unicorn" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAABAACAAAABAAAAAAACAACAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GOD" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAEAAAAACAAAABAAAAAAAAAgAAQAAAAACAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sith" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAAAAAAACEAAABAAAAAAAAAAAAAAAAAACAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
